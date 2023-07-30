@@ -1,0 +1,6 @@
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Entities\bin\Debug\AssistanceDialing.Entities.dll
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Entities\bin\Debug\AssistanceDialing.Entities.pdb
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Entities\obj\Debug\AssistanceDialing.Entities.csproj.AssemblyReference.cache
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Entities\obj\Debug\AssistanceDialing.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Entities\obj\Debug\AssistanceDialing.Entities.dll
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Entities\obj\Debug\AssistanceDialing.Entities.pdb

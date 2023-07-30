@@ -1,0 +1,6 @@
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Datos\bin\Debug\AssistanceDialing.Datos.dll
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Datos\bin\Debug\AssistanceDialing.Datos.pdb
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Datos\obj\Debug\AssistanceDialing.Datos.csproj.AssemblyReference.cache
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Datos\obj\Debug\AssistanceDialing.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Datos\obj\Debug\AssistanceDialing.Datos.dll
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.Datos\obj\Debug\AssistanceDialing.Datos.pdb

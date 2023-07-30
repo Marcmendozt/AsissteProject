@@ -1,0 +1,6 @@
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.BusinessRules\bin\Debug\AssistanceDialing.BusinessRules.dll
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.BusinessRules\bin\Debug\AssistanceDialing.BusinessRules.pdb
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.BusinessRules\obj\Debug\AssistanceDialing.BusinessRules.csproj.AssemblyReference.cache
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.BusinessRules\obj\Debug\AssistanceDialing.BusinessRules.csproj.CoreCompileInputs.cache
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.BusinessRules\obj\Debug\AssistanceDialing.BusinessRules.dll
+C:\Users\Mirio\Desktop\Asisste\Asisste\AssistanceDialing.BusinessRules\obj\Debug\AssistanceDialing.BusinessRules.pdb
